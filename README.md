@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMzMjkxeHpsYTFkcXh3ejlvNGEyajkzZjFzYzI1ODY3cmgyMmw2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMHyX4TbUD6vXh6AJ9/giphy.gif" width="500"/>
 </p>
